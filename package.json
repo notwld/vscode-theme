@@ -1,6 +1,7 @@
 {
     "name": "matrix-theme",
     "displayName": "matrix-theme",
+    "publisher": "blurrface",
     "description": "",
     "version": "0.0.1",
     "engines": {
